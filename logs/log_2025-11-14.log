@@ -1,0 +1,6 @@
+2025-11-14 13:08:20,738 - INFO - Intilaized TravelPlanner instance
+2025-11-14 13:08:20,740 - INFO - City set sucesfully
+2025-11-14 13:08:20,741 - INFO - Interest also set sucesfully..
+2025-11-14 13:08:20,742 - INFO - Gnerating itineary for Pune and for interests : ['FC road', 'koregoan park', 'osho garden', 'Sharwama king', 'iskon temple']
+2025-11-14 13:08:22,687 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-14 13:08:22,717 - INFO - Itineary generated sucesffully..

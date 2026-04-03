@@ -1,0 +1,9 @@
+
+streamlit
+fpdf
+langchain
+langchain-groq
+python-dotenv
+groq
+requests
+reportlab
