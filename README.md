@@ -54,7 +54,7 @@ cd AI_Travel_Planner
 
 ```bash
 python -m venv env
-env\Scripts\activate
+env\Scripts\activate.bat
 ```
 
 ---
