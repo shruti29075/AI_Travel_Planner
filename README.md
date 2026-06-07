@@ -12,7 +12,6 @@ An intelligent AI-based travel planning system that generates personalized trip 
 * 🗺️ Day-wise itinerary generation
 * 🔐 Secure API key handling using `.env`
 
----
 
 ## 🛠️ Tech Stack
 
